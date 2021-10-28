@@ -3,7 +3,7 @@
 
 ## Entrega Parcial
 
-Para Ejecutar el programa de manera local se debe usar java-8 . Adicional tener el proyecto clonado y compilado correctamente usando maven.
+Para Ejecutar el programa de manera local se debe usar java-8 O java 11 con los cuales fue probado. Adicional tener el proyecto clonado y compilado correctamente usando maven.
 El comando que se debe usar es mvn spring-boot:run este levantara el servicio por el puerto 5000
 
 ### HEROKU
