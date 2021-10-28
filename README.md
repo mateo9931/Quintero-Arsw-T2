@@ -1,5 +1,14 @@
 # Escuela Colombiana de Ingeniería Julio Garavito - Arquitecturas de Software ARSW - Parcial Segundo Tercio
 
+
+## Entrega Parcial
+
+Para Ejecutar el programa de manera local se debe usar java-8 . Adicional tener el proyecto clonado y compilado correctamente usando maven.
+El comando que se debe usar es mvn spring-boot:run este levantara el servicio por el puerto 5000
+
+### HEROKU
+https://quintero-arsw-t2.herokuapp.com/
+
 ## Preparación para el Parcial
 
 Con el objetivo de preparar el examen final del segundo tercio, por favor siga las siguientes instrucciones.
